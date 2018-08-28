@@ -1,6 +1,6 @@
 <?php
 
-namespace ExampleProject;
+namespace PhoenixDown;
 
 interface CommandTesterInterface
 {
